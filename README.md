@@ -2,6 +2,7 @@
 
 Backend de **Nodo Viaja**, una plataforma web para dar a conocer sitios turísticos, gastronomía y hospedaje de **Garzón, Huila**.
 
+![Node.js](logo.png)
 
 ---
 
