@@ -1,4 +1,4 @@
-import { pool, mongoose } from '../config/db.js';
+import { pool } from '../config/db.js';
 
 export async function getHealthStatus(req, res) {
     const services = {
